@@ -29,7 +29,7 @@ This project simulates an automatic heater control system using an ESP32 and DHT
 5. Alert with buzzer if temperature crosses safe limit
 
 ##  Wokwi Simulation
-[ Click here to open project in Wokwi]([https://wokwi.com/projects/YOUR_PROJECT_ID](https://wokwi.com/projects/437554051715852289](https://wokwi.com/projects/437535891576567809))
+[ Click here to open project in Wokwi](https://wokwi.com/projects/437554051715852289)
 
 ##  Libraries Used
 - `DHT`
